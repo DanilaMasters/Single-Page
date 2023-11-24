@@ -1,1 +1,1 @@
-# Single page with many pther pages implementation
+# Single page with many other pages implementation
